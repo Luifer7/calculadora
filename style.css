@@ -302,7 +302,7 @@ figcaption:hover::after  {
 
    .contenedor {
        
-    width: 35%;
+    width: 40%;
    }
 }
 
@@ -311,7 +311,7 @@ figcaption:hover::after  {
 
     .contenedor {
        
-        width: 45%;
+        width: 55%;
        }
 
     .creditos {
@@ -349,12 +349,17 @@ figcaption:hover::after  {
 
     .contenedor {
        
-        width: 60%;
+        width: 70%;
        }
     
-    .creditos {
+      .creditos {
         display: none;
     }
+
+    figcaption {
+        display: none;
+    }
+    
 
     
    
@@ -364,7 +369,7 @@ figcaption:hover::after  {
 
     .contenedor {
        
-        width: 65%;
+        width: 75%;
        }
 }
 
@@ -373,24 +378,11 @@ figcaption:hover::after  {
     
     .contenedor {
        
-        width: 70%;
+        width: 80%;
         
        }
     
-    .creditos {
-        gap: 30px;
-    }
     
-    svg {
-   
-        width: 40px;
-        height: 40px;
-        
-    }
-
-    figcaption {
-        display: none;
-    }
 }
 
 
